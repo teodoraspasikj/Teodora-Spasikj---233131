@@ -1,0 +1,35 @@
+.edu{
+    width: 350px;
+    height: 250px;
+    background-color: rosybrown;
+    padding-top: 30px;
+}
+.edu img{
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 25%;
+    justify-content: center;
+    margin-right: 152px;
+}
+.prva{
+    display: flex;
+}
+#education{
+    margin-top: 50px;
+    margin-left: 85px;
+}
+.edu h5{
+    text-align: center;
+}
+.edu p{
+    text-align: center;
+}
+.slika1{
+    margin-left:130px;
+}
+.slika2{
+    margin-left: 130px;
+}
+.slika3{
+    margin-left: 130px;
+}
